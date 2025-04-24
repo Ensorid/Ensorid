@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Enzo 👋
 
-<!--
-**Ensorid/Ensorid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught programmer with a passion for **backend development** ⚙️ and **system administration** 🖥️.
 
-Here are some ideas to get you started:
+## Technologies & Tools I use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python 🐍, TypeScript 📝, Shell 🖥️
+- **Areas of interest**: Backend development 💻, System Administration 🛠️
+- **Tools**: Docker 🐳, Linux 🐧, Networking 🌐, etc.
+
+## About Me:
+
+I'm the guy whose friends ask me to get their accounts back. AND STOP ASKING ME TO FIX THE PRINTER!
