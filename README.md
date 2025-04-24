@@ -10,4 +10,4 @@ I'm a self-taught programmer with a passion for **backend development** ⚙️ a
 
 ## About Me:
 
-I'm the guy whose friends ask me to get their accounts back. AND STOP ASKING ME TO FIX THE PRINTER!
+I'm the guy whose friends ask me to get their accounts back. AND MOM, STOP ASKING ME TO FIX THE PRINTER!
