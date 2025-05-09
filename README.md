@@ -14,5 +14,5 @@ I'm the guy whose friends ask me to get their accounts back. AND MOM, STOP ASKIN
 
 ## 🎮 When I'm not coding...
 
-### 🥁 osu! (cause waiting for code to be compiled is lazy)
+### 🥁 osu!
 ![osu! stats card](https://osu-profile-stats.vercel.app/api/profile-stats/Ensorid?version=mini&height=120)
