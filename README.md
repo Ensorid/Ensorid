@@ -4,7 +4,7 @@ I'm a self-taught programmer with a passion for **backend development** ⚙️ a
 
 ## Technologies & Tools I use:
 
-- **Languages**: Python 🐍, TypeScript 📝, Shell 🖥️
+- **Languages**: Python 🐍, TypeScript 📝, Java ☕️, Shell 🖥️
 - **Areas of interest**: Backend development 💻, System Administration 🛠️
 - **Tools**: Docker 🐳, Linux 🐧, Networking 🌐, etc.
 
